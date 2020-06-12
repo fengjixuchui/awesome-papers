@@ -1,8 +1,26 @@
 # Awesome NLP Paper Discussions
 
-Each week, the Hugging Face team has a science day where one team member leads a discussion on an awesome NLP paper or research area. We've decided to share this discussion with the community. See [planned future discussions](#planned-discussions) below.
+The Hugging Face team believes that we can reach our goals in NLP by building powerful open source tools and by conducting impactful research. Our team has begun holding regular internal discussions about awesome papers and research areas in NLP. In the spirit of open science, we've decided to share these discussion materials with the community.
 
 _Note: These science day discussions are held offline with no physical presentation or discussion to provide. However, some presentation materials do include limited comments from our team or summaries of internal discussions._
+
+See [planned future discussions](#planned-discussions) below.
+
+#### June 9, 2020
+- **Paper**: [MEvaluating NLP Models via Contrast Sets](https://arxiv.org/abs/2004.02709)
+- **Authors**: [Matt Gardner](https://twitter.com/nlpmattg), [Yoav Artzi](https://twitter.com/yoavartzi), Victoria Basmova, [Jonathan Berant](https://twitter.com/JonathanBerant), [Ben Bogin](https://twitter.com/ben_bogin), [Sihao Chen](https://twitter.com/soshsihao), [Pradeep Dasigi](https://twitter.com/pdasigi), [Dheeru Dua](https://twitter.com/ddua17), [Yanai Elazar](https://twitter.com/yanaiela), Ananth Gottumukkala, [Nitish Gupta](https://twitter.com/yanaiela), [Hanna Hajishirzi](https://twitter.com/HannaHajishirzi), [Gabriel Ilharco](https://twitter.com/gabriel_ilharco), [Daniel Khashabi](https://twitter.com/DanielKhashabi), [Kevin Lin](https://twitter.com/nlpkevinl), Jiangming Liu, [Nelson F. Liu](https://twitter.com/nelsonfliu), Phoebe Mulcaire, [Qiang Ning](https://twitter.com/qiangning), [Sameer Singh](https://twitter.com/sameer_), [Noah A. Smith](https://twitter.com/nlpnoah), [Sanjay Subramanian](https://twitter.com/sanjayssub), [Reut Tsarfaty](https://twitter.com/rtsarfaty), [Eric Wallace](https://twitter.com/Eric_Wallace_), Ally Zhang, [Ben Zhou](https://twitter.com/BenZhou96)
+- **Presenter**: [Victor Sanh](https://twitter.com/SanhEstPasMoi)
+- **Discussion**: [Slides](https://docs.google.com/presentation/d/1DfA2xi0JBSbqQ0hJrhI0jzANwjSaxV7odOA73lPfHjo/edit?usp=sharing)
+
+<img src="images/contrast_sets.png" width="300pt">
+
+#### May 18, 2020
+- **Paper**: [Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://arxiv.org/abs/2005.07683)
+- **Authors**: [Victor Sanh](https://twitter.com/SanhEstPasMoi), [Thomas Wolf](https://twitter.com/Thom_Wolf), [Alexander M. Rush](https://twitter.com/srush_nlp)
+- **Presenter**: [Victor Sanh](https://twitter.com/SanhEstPasMoi)
+- **Discussion**: [Slideshare](https://www.slideshare.net/VictorSanh/movement-pruning-explain-like-im-five-234205241)
+
+<img src="images/movement.png" width="600pt">
 
 #### May 5, 2020
 - **Paper**: [Von Mises-Fisher Loss for Training Sequence to Sequence Models with Continuous Outputs](https://arxiv.org/abs/1812.04616) 
